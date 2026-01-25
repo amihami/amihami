@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Amel  
 
-I’m a **Software Engineering student** focused on **Java development** and backend technologies, currently enrolled in the **Coding Black Females Entry to Tech Bootcamp × UBS**. I’m passionate about designing, developing and delivering clean, maintainable applications that solve real-world problems and add value through technology.  
+I’m a **Software Engineering student** focused on **Java development** and backend technologies, currently enrolled in the **CBF Entry to Tech Bootcamp × UBS**. I’m passionate about designing, developing and delivering clean, maintainable applications that solve real-world problems and add value through technology.  
 
 With a background in **programme and project management in the third sector**, I bring strong analytical, leadership and problem-solving skills into my technical work. My goal is to build solutions that are technically sound, scalable and aligned with organisational goals.  
 
