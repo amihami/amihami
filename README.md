@@ -1,6 +1,10 @@
 ## 👋 Hi, I’m Amel  
 
-I’m a **Software Engineering student** focused on **Java development** and backend technologies, currently enrolled in the **CBF Entry to Tech Bootcamp × UBS**. I’m passionate about designing, developing and delivering clean, maintainable applications that solve real-world problems and add value through technology.  
+I’m a **Software Engineering student** focused on backend technologies, currently expanding my skills through the **CFG Bootcamp × Engine by Starling**, where I am learning Python and software engineering fundamentals. 
+
+I previously completed the **CBF Entry to Tech Bootcamp × UBS**, where I built a strong foundation in **Java development, REST APIs and backend architecture**. 
+
+I’m passionate about designing, developing and delivering clean, maintainable applications that solve real-world problems and add value through technology.  
 
 With a background in **programme and project management in the third sector**, I bring strong analytical, leadership and problem-solving skills into my technical work. My goal is to build solutions that are technically sound, scalable and aligned with organisational goals.  
 
@@ -8,11 +12,11 @@ With a background in **programme and project management in the third sector**, I
 
 #### 🛠️ Tech Stack
 
-- **Languages:** Java, JavaScript, HTML, CSS  
+- **Languages:** Java, Python (currently learning), JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** Spring Boot, React, Node.js  
 - **Databases:** MySQL  
 - **Tools & Platforms:** Git, GitHub, Postman  
-- **Core Interests:** REST APIs, backend architecture and test-driven development (TDD)
+- **Core Interests:** REST APIs, backend architecture, financial systems, and test-driven development (TDD)
 
 ---
 
@@ -25,13 +29,16 @@ A **Spring Boot REST API** that enables users to discover their **sun, moon and 
 A **Java based trade management system** developed as the **final assessment project** for the **Coding Black Females x UBS Entry to Tech Programme**. The system simulates trade capture and processing with an emphasis on **data validation**, **modular architecture** and **clean coding practices** — demonstrating core backend engineering principles.
 
 - CBF Bootcamp Exercises:
-A collection of **Java-based exercises and mini-projects** developed during the **Coding Black Females Bootcamp**, covering OOP, collections, APIs and database integration.
+A collection of **Java-based exercises and mini-projects** developed during the **Coding Black Females Bootcamp**, covering OOP, collections, APIs and database integration. This repository reflects the foundational work completed during the CBF programme, which supported my transition into software engineering.
 
 ---
 
 #### 🧩 Currently Learning
 
-Through the CBF Bootcamp, I’m strengthening my understanding of:
+Through the CFG bootcamp, I am currently developing my skills in 
+- Python programming
+
+This builds on my previous experience from the CBF Bootcamp, where I strengthened my understanding of:
 - Building and integrating **REST APIs**  
 - Implementing **Test-Driven Development (TDD)** in Java  
 - Applying **Object-Oriented Programming (OOP)** principles effectively  
@@ -48,4 +55,5 @@ I’m working towards becoming a **backend developer** who builds reliable, scal
 
 #### ⭐ Personal Note
 
-I believe technology should drive efficiency, innovation and positive change within organisations and communities. My transition into software engineering is motivated by a desire to apply analytical thinking and technical expertise to deliver solutions that create measurable impact.
+I believe technology should drive efficiency, innovation and positive change within organisations and communities. My transition into software engineering is motivated by a desire to apply analytical thinking and technical expertise to deliver solutions that create measurable impact. My current learning journey across Java and Python ecosystems reflects my goal of becoming a versatile backend engineer capable of building robust, real-world systems.
+
